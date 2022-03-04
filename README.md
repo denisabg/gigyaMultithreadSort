@@ -1,4 +1,4 @@
-# gygaMultithreadSort
+# gigyaMultithreadSort
 
 SORT + MULTITHREADING + PERFORMANCE  ==  Performance analysis of multithreaded sorting algorithms
 
